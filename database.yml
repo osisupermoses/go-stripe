@@ -1,0 +1,7 @@
+development:
+  dialect: mysql
+  database: widgets
+  user: osisuper
+  password: Feyisayo99!!
+  host: 127.0.0.1
+  pool: 5
